@@ -1,5 +1,5 @@
 
-<p>Hi, I'm Brownson, Apparently I love playing basketball, coding after crossing a few of my friends. I am a clippers fan and I despise Lakers bro. I fuvk with Anime, Manga, Movies and Series. Trust me old animes and mangas? PEAK!. My love for Typescript and Golang is becoming scary, I hope you are like horror genre though. Let's connect and build something great!</p>
+<p>Hi, I'm Brownson, Apparently I love playing basketball, coding after crossing a few of my friends. I am a Clippers fan and I despise Lakers bro. I fuvk with Anime, Manga, Movies and Series. Trust me old animes and mangas? PEAK!. My love for Typescript and Golang is becoming scary, I hope you are like horror genre though. Let's connect and build something great!</p>
 
 <h2>🛠 Skills</h2>
 <p>
