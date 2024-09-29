@@ -33,17 +33,6 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="tailwind" width="42" height="42" />
 </a>
 
-
-<a target="_blank" href="https://flutter.dev" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="flutter" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://dart.dev" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" />
-</a>
-
-
 <a target="_blank" href="https://www.postgresql.org" target="_blank" style="display: inline-block;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" />
 </a>
