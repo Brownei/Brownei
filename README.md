@@ -115,7 +115,7 @@
 </a>
 
 <a target="_blank" href="https://yolenodev.vercel.app/" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/website-world?style=for-the-badge&logo=internet-explorer&logoColor=%230a77b6&color=%f3f2f3" alt="world icon" />
+<img src="https://img.shields.io/badge/website-world?style=for-the-badge&logo=internet-explorer&logoColor=%230a77b6&color=%23f3f2f3" alt="world icon" />
 </a>
 
 </p>
