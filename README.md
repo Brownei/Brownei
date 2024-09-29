@@ -114,4 +114,8 @@
 <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
 </a>
 
+<a target="_blank" href="https://yolenodev.vercel.app/" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/website-world?style=for-the-badge&logo=internet-explorer&logoColor=white&color=blue" alt="world icon" />
+</a>
+
 </p>
