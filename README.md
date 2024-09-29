@@ -1,11 +1,5 @@
 
-<a href="https://github.com/brownei" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=brownei&count_private=true&theme=radical" />
-</a>
-
-<h1>!</h1>
-
-<p>Hi, I'm Brownson, a Nigerian full-stack developer passionate about delivering value through clean code and innovative solutions. Proficient in TypeScript and JavaScript, I build versatile web applications with a solid understanding of both relational (MySQL) and non-relational (MongoDB) databases. With experience in cloud services like Google Cloud and AWS, I optimize platforms to enhance reliability and improve user experiences. I also leverage GitHub Actions for seamless CI/CD pipelines, ensuring smooth transitions from development to production. Let's connect and build something great!</p>
+<p>Hi, I'm Brownson, Apparently I love playing basketball, coding after crossing a few of my friends. I am a clippers fan and I despise Lakers bro. I fuvk with Anime, Manga, Movies and Series. Trust me old animes and mangas? PEAK!. My love for Typescript and Golang is becoming scary, I hope you are like horror genre though. Let's connect and build something great!</p>
 
 <h2>🛠 Skills</h2>
 <p>
@@ -110,7 +104,7 @@
 <img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=brownei&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only" />
 </a>
 
-<h2>📪 Contact me</h2>
+<h2>📪 Stalk me?</h2>
 <p>
 <a target="_blank" href="https://x.com/yolenodev" target="_blank" style="display: inline-block;">
 <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" />
