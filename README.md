@@ -1,4 +1,4 @@
-## What do you wanna see?
+## What do you wanna know?
 Full-Stack Web Dev who prefers Backend. I prefer using neovim and Linux.
 Golang, Rust and Typescript. Yes I do not fancy my mental health.
 
